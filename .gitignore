@@ -1,0 +1,11 @@
+# Secrets / env
+.env
+
+# Temp / build
+tmp/
+*.log
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
